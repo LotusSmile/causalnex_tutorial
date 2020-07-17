@@ -1,0 +1,3 @@
+sudo apt-get install python3-dev graphviz libgraphviz-dev pkg-config
+(venv) pip install causalnex
+pip3 install causalnex
